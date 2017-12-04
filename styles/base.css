@@ -5,6 +5,6 @@ body {
 
 header, nav, article, footer{
   outline: 1.5px dotted black;
-  padding: 5px;
   background-color: lightgrey;
+  margin: 0
 }

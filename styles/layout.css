@@ -1,0 +1,26 @@
+header {
+  height: 75px;
+}
+
+nav {
+  height: 150px;
+}
+
+.cur-articles article {
+  height: 125px;
+}
+
+.prev-articles article {
+  display: inline-block;
+  float: left;
+  width: 240px;
+  height: 250px;
+}
+
+footer {
+  height: 80px;
+}
+
+.clearfix {
+  clear: both;
+}
