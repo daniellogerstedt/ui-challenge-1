@@ -8,3 +8,9 @@ header, nav, article, footer{
   background-color: lightgrey;
   margin: 0
 }
+
+@media screen and (min-width: 960px) {
+  body{
+    width: 960px
+  }
+}
